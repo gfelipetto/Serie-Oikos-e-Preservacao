@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3c337cc6f64994a9b5a365786e15bb, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  caracteristicas: Corpo longo e alaranjado1Manchas grandes e escuras pelo corpo1Felino
+  objCompleto: {fileID: 8713144149762584517, guid: 428effb17b6880f43aba59a9b7fe2695,
+    type: 3}
